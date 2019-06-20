@@ -12,3 +12,9 @@ A collection of various deep learning architectures, models, and tips for Tensor
 https://github.com/StringofUniverse/euler
 
 A distributed graph deep learning framework.
+
+https://github.com/facebookresearch/PyTorch-BigGraph
+
+Software used for generating embeddings from large-scale graph-structured data.
+
+https://torchbiggraph.readthedocs.io/
