@@ -11,7 +11,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Euler
 
-https://github.com/StringofUniverse/euler
+https://github.com/alibaba/euler
 
 A distributed graph deep learning framework.
 
