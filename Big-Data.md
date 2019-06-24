@@ -22,3 +22,11 @@ https://github.com/facebookresearch/PyTorch-BigGraph
 Software used for generating embeddings from large-scale graph-structured data.
 
 https://torchbiggraph.readthedocs.io/
+
+# Natural Language Processing
+
+## XLNet
+
+https://github.com/zihangdai/xlnet
+
+XLNet: Generalized Autoregressive Pretraining for Language Understanding
