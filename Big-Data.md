@@ -1,10 +1,16 @@
 # Deep-Learning-Models
 
-## Deep Learning Models
+## Collection of Deep Learning Models
 
 https://github.com/rasbt/deeplearning-models
 
 A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
+
+## Geometric Deep Learning
+
+https://github.com/rusty1s/pytorch_geometric
+
+Geometric Deep Learning Extension Library for PyTorch
 
 
 # Graph-Theory
