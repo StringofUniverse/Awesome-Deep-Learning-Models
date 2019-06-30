@@ -36,6 +36,18 @@ Software used for generating embeddings from large-scale graph-structured data.
 
 https://torchbiggraph.readthedocs.io/
 
+## Graph Convolutional Networks
+
+https://github.com/tkipf/gcn
+
+Implementation of Graph Convolutional Networks in TensorFlow
+
+## Graph Convolutional Networks in PyTorch
+
+https://github.com/tkipf/pygcn
+
+Graph Convolutional Networks in PyTorch 
+
 # Natural Language Processing
 
 ## XLNet
