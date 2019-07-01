@@ -48,10 +48,4 @@ https://github.com/tkipf/pygcn
 
 Graph Convolutional Networks in PyTorch 
 
-# Natural Language Processing
 
-## XLNet
-
-https://github.com/zihangdai/xlnet
-
-XLNet: Generalized Autoregressive Pretraining for Language Understanding
