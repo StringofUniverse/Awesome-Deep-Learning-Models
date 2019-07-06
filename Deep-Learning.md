@@ -48,4 +48,7 @@ https://github.com/tkipf/pygcn
 
 Graph Convolutional Networks in PyTorch 
 
+## Graph Attention Networks
+https://github.com/PetarV-/GAT
 
+Graph Attention Networks (https://arxiv.org/abs/1710.10903) 
