@@ -20,21 +20,7 @@ https://github.com/zihangdai/xlnet
 
 XLNet: Generalized Autoregressive Pretraining for Language Understanding
 
-# Graph-Theory
-
-## Euler
-
-https://github.com/alibaba/euler
-
-A distributed graph deep learning framework.
-
-## PyTorch-BigGraph
-
-https://github.com/facebookresearch/PyTorch-BigGraph
-
-Software used for generating embeddings from large-scale graph-structured data.
-
-https://torchbiggraph.readthedocs.io/
+# Graph Neural Network
 
 ## Graph Convolutional Networks
 
