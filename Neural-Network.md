@@ -10,7 +10,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 https://github.com/rusty1s/pytorch_geometric
 
-Geometric Deep Learning Extension Library for 
+Geometric Deep Learning Extension Library for PyTorch 
 
 # Natural-Language-Processing
 
