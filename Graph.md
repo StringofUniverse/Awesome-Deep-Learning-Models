@@ -16,6 +16,12 @@ https://torchbiggraph.readthedocs.io/
 
 # Knowledge Graph
 
+## TorchKGE: Knowledge Graph embedding in Python and Pytorch.
+
+https://github.com/torchkge-team/torchkge
+
+https://torchkge.readthedocs.io/
+
 ## COMET
 https://github.com/atcbosselut/comet-commonsense
 
