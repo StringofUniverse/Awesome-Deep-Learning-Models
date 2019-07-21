@@ -1,4 +1,5 @@
 # Bioinformatics
+
 ## Sequence alignment
 
 ### HH-suite
@@ -18,3 +19,11 @@ https://github.com/tbepler/protein-sequence-embedding-iclr2019
 ### RNA-seq aligner
 
 https://github.com/alexdobin/STAR
+
+## Mass Spectrometry
+
+### deep-molecular-massspec
+
+https://github.com/brain-research/deep-molecular-massspec
+
+Mass Spectrometry for Small Molecules using Deep Learning
