@@ -3,6 +3,11 @@
 ## Gromacs API
 https://github.com/kassonlab/gmxapi
 
+## GromPy
+
+https://github.com/GromPy/GromPy
+
+A python interface for the GROMACS molecular simulation package.
 
 ## Gromacs Wrapper
 https://github.com/Becksteinlab/GromacsWrapper
