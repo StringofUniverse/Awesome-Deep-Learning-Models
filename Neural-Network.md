@@ -1,4 +1,4 @@
-# Deep-Learning-Models
+# Deep-Learning-Model-Zoo
 
 ## Collection of Deep Learning Models
 
@@ -12,7 +12,13 @@ https://github.com/rusty1s/pytorch_geometric
 
 Geometric Deep Learning Extension Library for PyTorch 
 
-# Natural-Language-Processing
+## PyTorch image models
+
+https://github.com/rwightman/pytorch-image-models
+
+PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more
+
+# Special-Topics
 
 ## XLNet
 
