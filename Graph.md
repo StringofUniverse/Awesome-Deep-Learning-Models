@@ -1,3 +1,9 @@
+# Network Theory
+
+https://github.com/briatte/awesome-network-analysis
+
+A curated list of awesome network analysis resources.
+
 # Graph-Tools
 
 ## Euler
