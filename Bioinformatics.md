@@ -14,6 +14,13 @@ Remote protein homology detection suite. Based on Hidden Markov model.
 
 https://github.com/tbepler/protein-sequence-embedding-iclr2019
 
+### UniRep
+
+UniRep, a mLSTM "babbler" deep representation learner for protein engineering informatics.
+
+https://github.com/churchlab/UniRep
+
+
 ## RNA-Seq
 
 ### RNA-seq aligner
@@ -27,3 +34,5 @@ https://github.com/alexdobin/STAR
 https://github.com/brain-research/deep-molecular-massspec
 
 Mass Spectrometry for Small Molecules using Deep Learning
+
+
